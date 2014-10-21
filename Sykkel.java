@@ -5,4 +5,5 @@ package Obliger;
  */
 public class Sykkel {
     public int a = 9;
+    public int b = a;
 }
